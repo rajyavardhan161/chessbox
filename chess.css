@@ -1,0 +1,15 @@
+.chess{
+    width: 220px;  
+    height: 220px;
+    background-color: black;
+}
+.chess2{
+    width: 220px;  
+    height: 220px;
+    background-color:white;  
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
